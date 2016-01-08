@@ -2,7 +2,7 @@
 top bar color
 ********************/
 html{
-  boarder-top: 20px;
+  boarder-top: 20px solid #7DBAFF;
 }
 h1 {
   color: red;
@@ -11,10 +11,12 @@ h1 {
   text-align: center;
 }
 .background{
-  color: #222;
+  color: #F8FFC4;
   text-indent: 20px;
 }
 
 h2{
   color: blue;
+  text-align: inherit;
+  padding-left: 10px
 }
